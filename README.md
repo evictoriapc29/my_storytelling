@@ -20,8 +20,8 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
@@ -32,9 +32,9 @@ Tipo/Género:
 ### Personaje
 
 
-![](img-nobody.png)
+![](16316663790555.jpg)
 
-Nombre: 
+Nombre: Britney Spears
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
