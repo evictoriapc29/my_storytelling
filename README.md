@@ -1,6 +1,6 @@
 
-# Proyecto Storytelling (template): 
-### my_storytelling
+# Britney en una nueva aventura: 
+### Britney la exploradora
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -10,9 +10,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Alejandro Guerrero
+- :woman: África Torices
+- :woman: Victoria Pamos
 
 
 Proyecto (código): 
