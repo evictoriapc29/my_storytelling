@@ -33,8 +33,10 @@ Tipo/Género:
 
 
 ![](16316663790555.jpg)
-
 Nombre: Britney Spears
+
+
+![](6b8a3f19-d167-449a-bc35-b382041d5012_source-aspect-ratio_1600w_0.jpg)
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
@@ -51,7 +53,8 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personajes:
+  
 
 
 - Banner/Teaser:  (enlace) 
