@@ -71,21 +71,6 @@ NOTA: La ficha del personaje se puede hacer con la pizarra online https://excali
 Britney Spears descubre en redes la desgarradora historia de Punch, un monito sumido en la tristeza tras ser rechazado por su madre biológica. Conmovida por un dolor que siente como propio, la cantante se llena de valentía y viaja hasta Japón con el único propósito de brindarle el afecto y la protección de una madre. Mientras tanto, en el zoo, Punch ha logrado recuperar una chispa de optimismo gracias a un pequeño mono de peluche que le regalaron sus cuidadores y que se ha convertido en su único refugio.
 
 Sin embargo, al llegar al lugar, Britney se queda atónita: no hay silencio ni intimidad, sino un despliegue masivo de cámaras, luces y neones preparados para la grabación de su nuevo videoclip. El set está rodeado por una multitud de therians que, con sus máscaras y movimientos animales, se han reunido para participar en el evento. Al verse frente a frente con Britney, pero rodeado por el estruendo técnico y la extraña presencia de los therians, el pequeño Punch se siente completamente abrumado y asustado por el caos que ha traído consigo su inesperada aparición en el videoclip.
-### TagLine
-
-### Conflicto 
-
-
-### Productos
-
-- Personajes:
-  
-
-- Banner/Teaser:  (enlace) 
-
-
-- Storytelling: (enlace) 
-
 
 
 
